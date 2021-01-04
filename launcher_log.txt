@@ -1,0 +1,1144 @@
+[Info: 2020-12-31 20:33:12.1112240: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:12.1114185: mainWindows.cpp(85)] Running launcher bootstrap (version 788)
+[Info: 2020-12-31 20:33:12.1677717: NetQueue.cpp(232)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:12.2058663: Common.cpp(32)] Native Launcher Version: 788
+[Info: 2020-12-31 20:33:12.2060144: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2020-12-31 20:33:12.2062938: Common.cpp(34)] Application Data directory: ...\.minecraft
+[Info: 2020-12-31 20:33:12.2063501: Common.cpp(35)] Executable Path: /.../MinecraftLauncher.exe
+[Info: 2020-12-31 20:33:12.2063999: Common.cpp(36)] App Directory dir: ...\Minecraft Launcher
+[Info: 2020-12-31 20:33:12.2064467: Common.cpp(37)] Game data directory: ...\.minecraft
+[Info: 2020-12-31 20:33:12.2064941: Common.cpp(38)] Launcher dir: ...\Minecraft Launcher\game
+[Info: 2020-12-31 20:33:12.2065400: Common.cpp(39)] Java dir: ...\Minecraft Launcher\runtime\jre-x64
+[Info: 2020-12-31 20:33:12.2065908: Common.cpp(40)] TmpDir dir: ...\MinecraftLauncher
+[Info: 2020-12-31 20:33:12.2066381: Common.cpp(41)] x64: true
+[Info: 2020-12-31 20:33:12.2066780: LauncherConfiguration.cpp(291)] Using update preferences at path: ...\.minecraft\launcher_profiles.json
+[Info: 2020-12-31 20:33:12.2072159: LauncherConfiguration.cpp(294)] Failed to read update preferences from ...\.minecraft\launcher_profiles.json
+[Info: 2020-12-31 20:33:12.2072845: LauncherConfiguration.cpp(305)] Using update preferences at path: ...\.minecraft\launcher_settings.json
+[Info: 2020-12-31 20:33:12.2087174: NetQueue.cpp(588)] NetQueue: worker thread started.
+[Info: 2020-12-31 20:33:12.2105636: NetQueue.cpp(603)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:12.6310364: NetQueue.cpp(474)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:12.6312727: NetQueue.cpp(506)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:12.6315532: NetQueue.cpp(541)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:12.6316616: NetQueue.cpp(557)] NetQueue: Action failed in finalization: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Error: 2020-12-31 20:33:12.6319821: LauncherConfiguration.cpp(335)] Could not get manifest from piston backend.
+[Info: 2020-12-31 20:33:12.6366152: NetQueue.cpp(588)] NetQueue: worker thread started.
+[Info: 2020-12-31 20:33:12.6369555: StartLibrary.cpp(70)] Starting ...\Minecraft Launcher\game\launcher.dll with ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-12-31 20:33:12.6396437: NetQueue.cpp(603)] NetQueue: Starting net action https://sentry.io/api/2705241/store/
+[Info: 2020-12-31 20:33:12.7076508: StartLibrary.cpp(89)] Running launcher!
+[Info: 2020-12-31 20:33:12.7089304: LauncherMain.cpp(88)] Initiated models
+[Info: 2020-12-31 20:33:12.7111745: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:12.7112451: LauncherMain.cpp(217)] Running launcher core (version 2.2.911)
+[Info: 2020-12-31 20:33:12.7115650: LauncherMain.cpp(230)] Initialization completed
+[Info: 2020-12-31 20:33:12.7122622: LauncherMain.cpp(253)] Main process: true
+[Info: 2020-12-31 20:33:12.7123509: LauncherMain.cpp(299)] workDir: ...\.minecraft
+[Info: 2020-12-31 20:33:12.7124030: LauncherMain.cpp(307)] appDir: ...\Minecraft Launcher
+[Info: 2020-12-31 20:33:12.7128688: LauncherMain.cpp(344)] Launcher core version: 2.2.911 (9ba62ee36118005aaf121f985a15e9ca35d5d42f)
+[Info: 2020-12-31 20:33:12.7130191: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:12.7131322: LauncherController.cpp(416)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 1
+[Info: 2020-12-31 20:33:12.7196169: ProfilesFileData.cpp(202)] Reading preferences on path: C:\Users\kerim\AppData\Roaming\.minecraft\launcher_profiles.json
+[Info: 2020-12-31 20:33:12.7197946: ProfilesFileData.cpp(233)] Deserializing modern profile
+[Info: 2020-12-31 20:33:12.7205698: GameVersionManager.cpp(223)] Reading local cache of the Mojang versions manifest...
+[Info: 2020-12-31 20:33:12.7307906: GameVersionManager.cpp(251)] Looking for installed versions in ...\.minecraft\versions
+[Info: 2020-12-31 20:33:12.7314295: GameVersionManager.cpp(292)] Parsing version 1.0
+[Info: 2020-12-31 20:33:12.7326257: GameVersionManager.cpp(292)] Parsing version 1.12.2
+[Info: 2020-12-31 20:33:12.7346590: GameVersionManager.cpp(292)] Parsing version 1.12.2-forge-14.23.5.2854
+[Warning: 2020-12-31 20:33:12.7359282: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[0].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7359645: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[10].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7359913: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[11].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7360160: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[12].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7360403: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[13].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7360637: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[14].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7360871: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[15].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7361104: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[16].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7361334: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[17].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7361565: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[18].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7361797: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[19].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7362029: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[1].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7362259: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[20].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7362493: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[21].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7362728: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[22].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7362959: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[23].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7363255: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[24].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7363517: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[25].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7363755: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[26].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7363988: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[27].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7364221: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[28].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7364450: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[29].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7364682: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[2].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7364934: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[30].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7365170: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[31].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7365404: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[32].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7365634: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[33].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7365866: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[34].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7366095: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[35].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7366325: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[36].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7366555: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[37].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7366784: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[38].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7367031: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[39].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7367267: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[3].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7367498: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[40].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7367751: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[41].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7368010: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[42].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7368246: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[43].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7368479: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[44].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7368711: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[45].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7368942: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[46].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7369175: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[47].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7369407: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[48].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7369637: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[49].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7369865: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[4].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7370095: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[50].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7370331: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[50].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7370565: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[51].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7370797: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[52].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7371027: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[53].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7371257: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[54].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7371486: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[55].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7371718: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[56].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7371948: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[56].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7372846: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[57].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7373154: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[57].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7373398: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[58].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7373631: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[5].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7373862: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[6].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7374093: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[7].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7374324: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[8].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7374555: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.libraries[9].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7374784: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.skinVersion: Unknown key
+[Warning: 2020-12-31 20:33:12.7375015: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.source: Unknown key
+[Warning: 2020-12-31 20:33:12.7375245: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.12.2-forge-14.23.5.2854\1.12.2-forge-14.23.5.2854.json.tlauncherVersion: Unknown key
+[Info: 2020-12-31 20:33:12.7383386: GameVersionManager.cpp(292)] Parsing version 1.13
+[Error: 2020-12-31 20:33:12.7398403: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[0].value: Expected array
+[Warning: 2020-12-31 20:33:12.7399037: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[0].values: Unknown key
+[Error: 2020-12-31 20:33:12.7399312: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[10].value: Expected array
+[Warning: 2020-12-31 20:33:12.7399698: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[10].values: Unknown key
+[Error: 2020-12-31 20:33:12.7399935: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[11].value: Expected array
+[Warning: 2020-12-31 20:33:12.7400300: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[11].values: Unknown key
+[Error: 2020-12-31 20:33:12.7400530: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[12].value: Expected array
+[Warning: 2020-12-31 20:33:12.7400888: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[12].values: Unknown key
+[Error: 2020-12-31 20:33:12.7401116: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[13].value: Expected array
+[Warning: 2020-12-31 20:33:12.7401504: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[13].values: Unknown key
+[Error: 2020-12-31 20:33:12.7401782: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[14].value: Expected array
+[Warning: 2020-12-31 20:33:12.7402168: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[14].values: Unknown key
+[Error: 2020-12-31 20:33:12.7402396: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[15].value: Expected array
+[Warning: 2020-12-31 20:33:12.7402752: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[15].values: Unknown key
+[Error: 2020-12-31 20:33:12.7402977: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[16].value: Expected array
+[Warning: 2020-12-31 20:33:12.7403329: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[16].values: Unknown key
+[Error: 2020-12-31 20:33:12.7403551: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[17].value: Expected array
+[Warning: 2020-12-31 20:33:12.7403902: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[17].values: Unknown key
+[Error: 2020-12-31 20:33:12.7404124: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[18].value: Expected array
+[Warning: 2020-12-31 20:33:12.7404475: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[18].values: Unknown key
+[Error: 2020-12-31 20:33:12.7404698: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[19].value: Expected array
+[Warning: 2020-12-31 20:33:12.7405047: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[19].values: Unknown key
+[Error: 2020-12-31 20:33:12.7405268: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[1].value: Expected array
+[Warning: 2020-12-31 20:33:12.7405645: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[1].values: Unknown key
+[Error: 2020-12-31 20:33:12.7405872: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[2].value: Expected array
+[Warning: 2020-12-31 20:33:12.7406221: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[2].values: Unknown key
+[Error: 2020-12-31 20:33:12.7406443: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[3].value: Expected array
+[Warning: 2020-12-31 20:33:12.7406833: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[3].values: Unknown key
+[Error: 2020-12-31 20:33:12.7407078: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[4].value: Expected array
+[Warning: 2020-12-31 20:33:12.7407437: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[4].values: Unknown key
+[Error: 2020-12-31 20:33:12.7407661: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[5].value: Expected array
+[Warning: 2020-12-31 20:33:12.7408014: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[5].values: Unknown key
+[Error: 2020-12-31 20:33:12.7408236: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[6].value: Expected array
+[Warning: 2020-12-31 20:33:12.7408612: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[6].values: Unknown key
+[Error: 2020-12-31 20:33:12.7408862: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[7].value: Expected array
+[Warning: 2020-12-31 20:33:12.7409220: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[7].values: Unknown key
+[Error: 2020-12-31 20:33:12.7409441: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[8].value: Expected array
+[Warning: 2020-12-31 20:33:12.7409788: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[8].values: Unknown key
+[Error: 2020-12-31 20:33:12.7410012: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[9].value: Expected array
+[Warning: 2020-12-31 20:33:12.7410366: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.game[9].values: Unknown key
+[Error: 2020-12-31 20:33:12.7410590: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[0].value: Expected array
+[Warning: 2020-12-31 20:33:12.7410944: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[0].values: Unknown key
+[Error: 2020-12-31 20:33:12.7411164: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[1].value: Expected array
+[Warning: 2020-12-31 20:33:12.7411512: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[1].values: Unknown key
+[Error: 2020-12-31 20:33:12.7411735: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[2].value: Expected array
+[Warning: 2020-12-31 20:33:12.7412081: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[2].values: Unknown key
+[Error: 2020-12-31 20:33:12.7412302: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[3].value: Expected array
+[Warning: 2020-12-31 20:33:12.7412650: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[3].values: Unknown key
+[Error: 2020-12-31 20:33:12.7412873: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[4].value: Expected array
+[Warning: 2020-12-31 20:33:12.7413223: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[4].values: Unknown key
+[Error: 2020-12-31 20:33:12.7413444: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[5].value: Expected array
+[Warning: 2020-12-31 20:33:12.7413790: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[5].values: Unknown key
+[Error: 2020-12-31 20:33:12.7414015: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[6].value: Expected array
+[Warning: 2020-12-31 20:33:12.7414363: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[6].values: Unknown key
+[Error: 2020-12-31 20:33:12.7414583: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[7].value: Expected array
+[Warning: 2020-12-31 20:33:12.7414972: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[7].values: Unknown key
+[Error: 2020-12-31 20:33:12.7415197: GameVersionManager.cpp(302)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[8].value: Expected array
+[Warning: 2020-12-31 20:33:12.7415570: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.arguments.jvm[8].values: Unknown key
+[Warning: 2020-12-31 20:33:12.7415812: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[0].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7416036: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[10].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7416252: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[11].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7416468: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[12].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7416683: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[13].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7416896: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[14].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7417133: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[15].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7417348: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[16].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7417560: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[17].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7417774: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[18].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7417989: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[19].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7418207: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[1].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7418419: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[20].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7418634: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[21].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7418846: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[22].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7419058: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[23].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7419273: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[24].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7419487: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[25].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7419703: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[26].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7419916: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[27].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7420134: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[28].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7420348: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[29].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7420564: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[2].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7421497: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[30].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7421782: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[31].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7422006: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[32].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7422222: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[33].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7422436: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[34].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7422651: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[35].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7422865: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[35].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7423081: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[36].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7423297: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[36].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7423510: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[37].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7423725: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[37].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7423938: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[38].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7424154: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[38].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7424367: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[39].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7424582: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[39].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7424795: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[3].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7425012: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[40].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7425227: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[40].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7425440: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[41].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7425653: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[42].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7425865: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[42].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7426079: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[43].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7426294: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[43].classifies: Unknown key
+[Warning: 2020-12-31 20:33:12.7426509: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[44].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7426741: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[4].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7426988: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[5].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7427212: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[6].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7427426: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[7].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7427639: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[8].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7427851: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.libraries[9].artifact: Unknown key
+[Warning: 2020-12-31 20:33:12.7428065: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.skinVersion: Unknown key
+[Warning: 2020-12-31 20:33:12.7428278: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.source: Unknown key
+[Warning: 2020-12-31 20:33:12.7428495: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.13\1.13.json.tlauncherVersion: Unknown key
+[Info: 2020-12-31 20:33:12.7433723: GameVersionManager.cpp(292)] Parsing version 1.14
+[Info: 2020-12-31 20:33:12.7455434: GameVersionManager.cpp(292)] Parsing version 1.15.2
+[Info: 2020-12-31 20:33:12.7489139: GameVersionManager.cpp(292)] Parsing version 1.15.2-forge-31.2.0
+[Warning: 2020-12-31 20:33:12.7493670: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.15.2-forge-31.2.0\1.15.2-forge-31.2.0.json._comment_: Unknown key
+[Info: 2020-12-31 20:33:12.7499252: GameVersionManager.cpp(292)] Parsing version 1.16
+[Warning: 2020-12-31 20:33:12.7523247: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.16\1.16.json.complianceLevel: Unknown key
+[Info: 2020-12-31 20:33:12.7534225: GameVersionManager.cpp(292)] Parsing version 1.16.2
+[Warning: 2020-12-31 20:33:12.7556323: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.16.2\1.16.2.json.complianceLevel: Unknown key
+[Info: 2020-12-31 20:33:12.7568387: GameVersionManager.cpp(292)] Parsing version 1.16.3
+[Warning: 2020-12-31 20:33:12.7590037: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.16.3\1.16.3.json.complianceLevel: Unknown key
+[Info: 2020-12-31 20:33:12.7599808: GameVersionManager.cpp(292)] Parsing version 1.16.4
+[Warning: 2020-12-31 20:33:12.7622634: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\1.16.4\1.16.4.json.complianceLevel: Unknown key
+[Info: 2020-12-31 20:33:12.7634503: GameVersionManager.cpp(292)] Parsing version 1.5.2
+[Info: 2020-12-31 20:33:12.7647904: GameVersionManager.cpp(292)] Parsing version 1.7.10
+[Info: 2020-12-31 20:33:12.7663330: GameVersionManager.cpp(292)] Parsing version 1.8
+[Info: 2020-12-31 20:33:12.7683115: GameVersionManager.cpp(292)] Parsing version 1.8.9
+[Info: 2020-12-31 20:33:12.7812010: GameVersionManager.cpp(292)] Parsing version 1.9.2
+[Info: 2020-12-31 20:33:12.7829540: GameVersionManager.cpp(292)] Parsing version 20w51a
+[Warning: 2020-12-31 20:33:12.7854685: GameVersionManager.cpp(306)] C:\Users\kerim\AppData\Roaming\.minecraft\versions\20w51a\20w51a.json.complianceLevel: Unknown key
+[Info: 2020-12-31 20:33:12.7868479: NetQueue.cpp(521)] NetQueue: worker thread started.
+[Info: 2020-12-31 20:33:12.7899392: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.8649988: NetQueue.cpp(391)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:12.8650894: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.8651495: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.8651750: NetQueue.cpp(475)] NetQueue: Action should retry: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.8652248: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.8811538: NetQueue.cpp(474)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:12.8812571: NetQueue.cpp(506)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2705241/store/
+[Info: 2020-12-31 20:33:12.8813515: NetQueue.cpp(541)] NetQueue: Action finished: https://sentry.io/api/2705241/store/
+[Error: 2020-12-31 20:33:12.8813923: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:12.8814319: NetQueue.cpp(557)] NetQueue: Action failed in finalization: https://sentry.io/api/2705241/store/
+[Info: 2020-12-31 20:33:12.9488647: NetQueue.cpp(391)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:12.9490407: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.9491886: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.9492599: NetQueue.cpp(475)] NetQueue: Action should retry: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:12.9493931: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.0275904: NetQueue.cpp(391)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:13.0278443: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.0280839: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.0282070: NetQueue.cpp(475)] NetQueue: Action should retry: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.0285073: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.1072971: NetQueue.cpp(391)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:13.1076478: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.1078488: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.1079696: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Error: 2020-12-31 20:33:13.1082007: GameVersionManager.cpp(363)] Failed to get available versions manifest from https://launchermeta.mojang.com/mc/game/version_manifest_v2.json?_t=2020-12-31T20:33:12Z
+[Info: 2020-12-31 20:33:13.1152198: NetQueue.cpp(521)] NetQueue: worker thread started.
+[Info: 2020-12-31 20:33:13.1201732: ProductManager.cpp(212)] Product library dir set to C:\Users\kerim\AppData\Local\Mojang\products
+[Info: 2020-12-31 20:33:13.1204569: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.1230661: AccountData.cpp(309)] Parsing content from file: ...\.minecraft\launcher_accounts.json
+[Info: 2020-12-31 20:33:13.1235741: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.1243665: SkinManager.cpp(248)] Failed to read skins file: ...\.minecraft\launcher_skins.json Errno such file or directory
+[Info: 2020-12-31 20:33:13.2106325: LauncherAppBrowser.cpp(57)] Work dir is ...\.minecraft
+[Info: 2020-12-31 20:33:13.2177934: NetQueue.cpp(537)] NetQueue: Starting net action https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:13.2726650: root_window_manager.cpp(82)] Main window has been opened: 034BEB48
+[Info: 2020-12-31 20:33:13.2976947: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:13.2978124: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.2979050: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:13.2979479: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:13.2979904: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.4187327: NetQueue.cpp(391)] NetQueue: Primary ip: 51.68.172.243, Host: authserver.mojang.com
+[Info: 2020-12-31 20:33:13.4188356: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:13.4189251: NetQueue.cpp(466)] NetQueue: Action finished: https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:13.4189673: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:13.4191111: EndpointAPI.cpp(131)] Error: schannel: failed to receive handshake, SSL/TLS connection failed, Code: 0
+[Info: 2020-12-31 20:33:13.4192002: UnifiedMojangAccounts.cpp(146)] Mojang account refresh: offline
+[Info: 2020-12-31 20:33:13.4795780: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:33:13.4797256: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.4798379: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.4798812: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:33:13.4799752: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 20:33:13.4824378: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:13.4824775: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.6647584: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:13.6648615: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.6649521: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:13.6649923: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:13.6650326: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.6949764: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.7580043: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:33:13.7581114: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.7582161: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.7582615: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:33:13.7583785: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 20:33:13.7610716: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:13.7611200: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:33:13.7538218: LauncherMain.cpp(88)] Initiated models
+[Info: 2020-12-31 20:33:13.7540995: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:13.7541787: LauncherMain.cpp(217)] Running launcher core (version 2.2.911)
+[Info: 2020-12-31 20:33:13.7547395: LauncherMain.cpp(230)] Initialization completed
+[Info: 2020-12-31 20:33:13.7558092: LauncherMain.cpp(253)] Main process: false
+[Info: 2020-12-31 20:33:13.7559382: LauncherMain.cpp(299)] workDir: ...\.minecraft
+[Info: 2020-12-31 20:33:13.7560057: LauncherMain.cpp(307)] appDir: ...
+[Info: 2020-12-31 20:33:13.7561694: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:13.7563180: LauncherController.cpp(416)] Constructing launcher controller with workDir: ...\.minecraft, isActive: 0
+[Info: 2020-12-31 20:33:13.7945580: LauncherAppRenderer.cpp(114)] Javascript bridge extended.
+[Info: 2020-12-31 20:33:13.9313638: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:13.9316678: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:13.9317812: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:13.9318288: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:13.9318736: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:14.2156422: LauncherAppRenderer.cpp(256)] Creating renderer context
+[Info: 2020-12-31 20:33:15.1243914: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2020-12-31 20:33:15.1274865: ControllerInterface.cpp(106)] Running method getStore
+[Info: 2020-12-31 20:33:15.1964390: ControllerInterface.cpp(134)] Running async method checkForUpdates
+[Info: 2020-12-31 20:33:15.1967487: NetQueue.cpp(537)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:15.1968523: client_handler.cpp(218)] Handling PostTelemetryEvent message
+[Info: 2020-12-31 20:33:15.2002987: ControllerInterface.cpp(106)] Running method getAccountData
+[Error: 2020-12-31 20:33:15.2011256: KeyValueStore.cpp(53)] Failed to parse state file: ...\.minecraft\launcher_entitlements.json: data missing or invalid
+[Info: 2020-12-31 20:33:15.2039322: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:15.2045043: KeyValueStore.cpp(53)] Failed to parse state file: ...\.minecraft\launcher_gamer_pics.json: data missing or invalid
+[Info: 2020-12-31 20:33:15.2073069: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:15.2081774: XalStorage.cpp(241)] Parsing content from MSA File
+[Info: 2020-12-31 20:33:15.2084460: XalContext.cpp(417)] ClockSkew is -9671111 (0 seconds)
+[Info: 2020-12-31 20:33:15.2117561: Xal.lib(0)] XAL: Initializing Xal 2019.10.20190918.001, Win32 platform
+[Info: 2020-12-31 20:33:15.2118753: Xal.lib(0)] XAL: Init args:
+[Info: 2020-12-31 20:33:15.2119492: Xal.lib(0)] XAL:     sandbox: 
+[Info: 2020-12-31 20:33:15.2120206: Xal.lib(0)] XAL:     disableDiagnosticTelemetry: false
+[Info: 2020-12-31 20:33:15.2120931: Xal.lib(0)] XAL:     correlationVector: (null)
+[Info: 2020-12-31 20:33:15.2121587: Xal.lib(0)] XAL:     flags: 91000000
+[Info: 2020-12-31 20:33:15.2122231: Xal.lib(0)] XAL:     thirdPartyConsent (0)
+[Info: 2020-12-31 20:33:15.2123217: Xal.lib(0)] XAL:     redirectUri: 
+[Warning: 2020-12-31 20:33:15.2124613: Xal.lib(0)] XAL: Expected REG_SZ type for SOFTWARE\Microsoft\XboxLive\Sandbox, found 0 instead
+[Info: 2020-12-31 20:33:15.2171468: Xal.lib(0)] XAL: Diagnostic telemetry disabled: false
+[Info: 2020-12-31 20:33:15.2179843: Xal.lib(0)] XAL_TELEMETRY: AppActivation Version="2019.10.20190918.001"
+[Info: 2020-12-31 20:33:15.2182649: Xal.lib(0)] XAL: [0350F678] Operation InitializeComponents is starting with CV 'XKQ1w/6d5t+AmwgT.0.0'
+[Info: 2020-12-31 20:33:15.2185371: Xal.lib(0)] XAL: [01043F38] Operation InitializeTokenStack is starting with CV 'XKQ1w/6d5t+AmwgT.0.0'
+[Info: 2020-12-31 20:33:15.2189260: Xal.lib(0)] XAL: [0350EDB8] Operation LoadClockSkew is starting with CV 'XKQ1w/6d5t+AmwgT.0.0'
+[Info: 2020-12-31 20:33:15.2189957: Xal.lib(0)] XAL: [03470898] Client operation StorageReadPlatformOperation starting
+[Info: 2020-12-31 20:33:15.2849122: NetQueue.cpp(391)] NetQueue: Primary ip: 54.192.231.23, Host: launchermeta.mojang.com
+[Info: 2020-12-31 20:33:15.2850564: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:15.2851537: NetQueue.cpp(466)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:15.2852041: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2020-12-31 20:33:15.3265889: Xal.lib(0)] XAL: [03470898] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2020-12-31 20:33:15.3272686: Xal.lib(0)] XAL: [03470898] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2020-12-31 20:33:15.3275182: Xal.lib(0)] XAL: [03470898] Client operation StorageReadPlatformOperation succeeded
+[Info: 2020-12-31 20:33:15.3680282: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:15.3930113: client_handler.cpp(218)] Handling PostTelemetryEvent message
+[Info: 2020-12-31 20:33:15.4317974: Xal.lib(0)] XAL: [03470898] Client operation StorageReadPlatformOperation continuing
+[Info: 2020-12-31 20:33:15.4320951: Xal.lib(0)] XAL: No saved clock skew data found.
+[Info: 2020-12-31 20:33:15.4321458: Xal.lib(0)] XAL: [0350EDB8] Operation LoadClockSkew succeeded.
+[Info: 2020-12-31 20:33:15.4322984: Xal.lib(0)] XAL: Clock skew loaded. System time: 2020-12-31T20:33:15.4310000Z + skew (seconds) 0 = Server time: 2020-12-31T20:33:15.4310000Z
+[Info: 2020-12-31 20:33:15.4325525: Xal.lib(0)] XAL: [07F578F8] Operation LoadDeviceIdentity is starting with CV 'XKQ1w/6d5t+AmwgT.0.0'
+[Info: 2020-12-31 20:33:15.4327008: Xal.lib(0)] XAL: [03470E10] Client operation StorageReadPlatformOperation starting
+[Info: 2020-12-31 20:33:15.4328721: Xal.lib(0)] XAL: [03470E10] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2020-12-31 20:33:15.4332459: Xal.lib(0)] XAL: [03470E10] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Success' (0)
+[Info: 2020-12-31 20:33:15.4333877: Xal.lib(0)] XAL: [03470E10] Client operation StorageReadPlatformOperation succeeded
+[Info: 2020-12-31 20:33:15.4891263: ControllerInterface.cpp(106)] Running method setStore
+[Info: 2020-12-31 20:33:15.5276992: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:15.5278093: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:15.5278718: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:15.5278979: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:15.5279227: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:15.5357275: Xal.lib(0)] XAL: [03470E10] Client operation StorageReadPlatformOperation continuing
+[Info: 2020-12-31 20:33:15.5365893: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:33:15.5367095: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:15.5369972: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:33:15.5370490: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:33:15.5370932: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:33:15.5370801: Xal.lib(0)] XAL: [03470ED8] Client operation StorageReadPlatformOperation starting
+[Info: 2020-12-31 20:33:15.5374884: Xal.lib(0)] XAL: [03470ED8] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2020-12-31 20:33:15.5380758: Xal.lib(0)] XAL: [03470ED8] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2020-12-31 20:33:15.5384402: Xal.lib(0)] XAL: [03470ED8] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2020-12-31 20:33:15.6419442: Xal.lib(0)] XAL: [03470ED8] Client operation StorageReadPlatformOperation continuing
+[Warning: 2020-12-31 20:33:15.6431210: Xal.lib(0)] XAL: [07F578F8] Failed to read Dtoken with error 0x89235107: Client operation failed
+[Info: 2020-12-31 20:33:15.6434051: Xal.lib(0)] XAL: [03470C80] Client operation StorageReadPlatformOperation starting
+[Info: 2020-12-31 20:33:15.6436863: Xal.lib(0)] XAL: [03470C80] Client operation StorageReadPlatformOperation calling platform handler
+[Info: 2020-12-31 20:33:15.6442549: Xal.lib(0)] XAL: [03470C80] Client operation StorageReadPlatformOperation platform handler reported completion status 'XalPlatformOperationResult_Failure' (1)
+[Info: 2020-12-31 20:33:15.6449557: Xal.lib(0)] XAL: [03470C80] Client operation StorageReadPlatformOperation failed with result 0x89235107: Client operation failed
+[Info: 2020-12-31 20:33:15.7477958: Xal.lib(0)] XAL: [03470C80] Client operation StorageReadPlatformOperation continuing
+[Warning: 2020-12-31 20:33:15.7481148: Xal.lib(0)] XAL: [07F578F8] Failed to read Ttoken with error 0x89235107: Client operation failed
+[Info: 2020-12-31 20:33:15.7482601: Xal.lib(0)] XAL: [07F578F8] Operation LoadDeviceIdentity succeeded.
+[Info: 2020-12-31 20:33:15.7486671: Xal.lib(0)] XAL: [0350F288] Operation NsalDb_LoadDefaultNsal is starting with CV 'XKQ1w/6d5t+AmwgT.0.0'
+[Info: 2020-12-31 20:33:15.7492331: NetQueue.cpp(521)] NetQueue: worker thread started.
+[Info: 2020-12-31 20:33:15.7510255: NetQueue.cpp(537)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:16.2023198: NetQueue.cpp(391)] NetQueue: Primary ip: 52.184.201.245, Host: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:16.2026378: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:16.2029505: NetQueue.cpp(466)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:16.2032706: NetQueue.cpp(487)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:19.4744411: NetQueue.cpp(537)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:19.6311011: NetQueue.cpp(391)] NetQueue: Primary ip: 52.184.201.245, Host: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:19.6319845: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:19.6322228: NetQueue.cpp(466)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:19.6323713: NetQueue.cpp(487)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:20.1360883: ControllerInterface.cpp(106)] Running method getAccountData
+[Info: 2020-12-31 20:33:20.1367165: NetQueue.cpp(537)] NetQueue: Starting net action https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:20.2137643: NetQueue.cpp(391)] NetQueue: Primary ip: 51.68.172.243, Host: authserver.mojang.com
+[Info: 2020-12-31 20:33:20.2138903: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:20.2139762: NetQueue.cpp(466)] NetQueue: Action finished: https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:20.2140128: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://authserver.mojang.com/refresh
+[Info: 2020-12-31 20:33:20.2141110: EndpointAPI.cpp(131)] Error: schannel: failed to receive handshake, SSL/TLS connection failed, Code: 0
+[Info: 2020-12-31 20:33:20.2141760: UnifiedMojangAccounts.cpp(146)] Mojang account refresh: offline
+[Info: 2020-12-31 20:33:22.5700178: ControllerInterface.cpp(106)] Running method downloadConfiguration
+[Info: 2020-12-31 20:33:22.5702717: GameVersionManager.cpp(679)] resolveVersionID: Resolved latest-snapshot:latest-snapshot to 20w51a
+[Info: 2020-12-31 20:33:22.5704000: GameVersionManager.cpp(438)] Request version details for: 20w51a
+[Info: 2020-12-31 20:33:22.5899533: GameVersionManager.cpp(679)] resolveVersionID: Resolved latest-snapshot:latest-snapshot to 20w51a
+[Info: 2020-12-31 20:33:22.5933228: GameController.cpp(335)] Creating ClientStarter with id 1
+[Info: 2020-12-31 20:33:22.5934777: NetQueue.cpp(148)] NetQueue: Setting up.
+[Info: 2020-12-31 20:33:22.5940543: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Preparing to launch minecraft client for 20w51a
+[Info: 2020-12-31 20:33:22.6273597: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Prepared asset index
+[Info: 2020-12-31 20:33:22.6853353: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Have 2862 total files to check or download
+[Info: 2020-12-31 20:33:22.7192853: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Waiting for 2862 futures
+[Info: 2020-12-31 20:33:25.7900713: NetQueue.cpp(537)] NetQueue: Starting net action title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:25.9425641: NetQueue.cpp(391)] NetQueue: Primary ip: 52.184.201.245, Host: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:25.9426530: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:25.9427135: NetQueue.cpp(466)] NetQueue: Action finished: title.mgt.xboxlive.com
+[Info: 2020-12-31 20:33:25.9427598: NetQueue.cpp(487)] NetQueue: Action finalized: title.mgt.xboxlive.com
+[Error: 2020-12-31 20:33:25.9953238: Xal.lib(0)] XAL: Http request 0109A788 failed with system error code 2149122448
+[Warning: 2020-12-31 20:33:25.9955403: Xal.lib(0)] XAL: [0350F288] Operation NsalDb_LoadDefaultNsal failed with result 0x89235106: Network error
+[Warning: 2020-12-31 20:33:25.9957599: Xal.lib(0)] XAL: [01043F38] Operation InitializeTokenStack failed with result 0x89235106: Network error
+[Warning: 2020-12-31 20:33:25.9958874: Xal.lib(0)] XAL: [0350F678] Operation InitializeComponents failed with result 0x89235106: Network error
+[Info: 2020-12-31 20:34:25.1547229: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Checking installations.
+[Info: 2020-12-31 20:34:25.1567858: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Minecraft client 20w51a is ready to start.
+[Info: 2020-12-31 20:34:25.1569068: GameController.cpp(428)] Starting game with token 1
+[Info: 2020-12-31 20:34:25.1570013: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Starting!
+[Info: 2020-12-31 20:34:25.1571033: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Nothing to download!
+[Info: 2020-12-31 20:34:25.1572002: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Extracting 8 files!
+[Info: 2020-12-31 20:34:26.6149043: GameCallbacks.cpp(162)] Launcher/launcher (main) Info Using default game log configuration client-1.12.xml (outputs XML)
+[Info: 2020-12-31 20:34:26.6149974: GameCallbacks.cpp(162)] Launcher/launcher (main) Debug Installing versions!
+[Info: 2020-12-31 20:34:26.6160329: ClientStarter.cpp(818)] Java argument:-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+[Info: 2020-12-31 20:34:26.6161023: ClientStarter.cpp(818)] Java argument:-Dos.name=Windows 10
+[Info: 2020-12-31 20:34:26.6161433: ClientStarter.cpp(818)] Java argument:-Dos.version=10.0
+[Info: 2020-12-31 20:34:26.6161813: ClientStarter.cpp(818)] Java argument:-Xss1M
+[Info: 2020-12-31 20:34:26.6162286: ClientStarter.cpp(818)] Java argument:-Djava.library.path=C:\Users\kerim\AppData\Roaming\.minecraft\bin\cd3f-3d11-ff86-9e92
+[Info: 2020-12-31 20:34:26.6162722: ClientStarter.cpp(818)] Java argument:-Dminecraft.launcher.brand=minecraft-launcher
+[Info: 2020-12-31 20:34:26.6163145: ClientStarter.cpp(818)] Java argument:-Dminecraft.launcher.version=2.2.911
+[Info: 2020-12-31 20:34:26.6163549: ClientStarter.cpp(818)] Java argument:-cp
+[Info: 2020-12-31 20:34:26.6164034: ClientStarter.cpp(818)] Java argument:C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\patchy\1.1\patchy-1.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\oshi-project\oshi-core\1.1\oshi-core-1.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\jna\4.4.0\jna-4.4.0.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\net\java\dev\jna\platform\3.4.0\platform-3.4.0.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\ibm\icu\icu4j\66.1\icu4j-66.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\javabridge\1.1.23\javabridge-1.1.23.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.3\jopt-simple-5.0.3.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\io\netty\netty-all\4.1.25.Final\netty-all-4.1.25.Final.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\google\guava\guava\21.0\guava-21.0.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-lang3\3.5\commons-lang3-3.5.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\commons-codec\commons-codec\1.10\commons-codec-1.10.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\net\java\jinput\jinput\2.0.5\jinput-2.0.5.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\net\java\jutils\jutils\1.0.0\jutils-1.0.0.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\brigadier\1.0.17\brigadier-1.0.17.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\datafixerupper\4.0.26\datafixerupper-4.0.26.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\authlib\2.1.28\authlib-2.1.28.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\commons\commons-compress\1.8.1\commons-compress-1.8.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpclient\4.3.3\httpclient-4.3.3.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\httpcomponents\httpcore\4.3.2\httpcore-4.3.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\it\unimi\dsi\fastutil\8.2.1\fastutil-8.2.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-api\2.8.1\log4j-api-2.8.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\apache\logging\log4j\log4j-core\2.8.1\log4j-core-2.8.1.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl\3.2.2\lwjgl-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.2.2\lwjgl-jemalloc-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-openal\3.2.2\lwjgl-openal-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-opengl\3.2.2\lwjgl-opengl-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-glfw\3.2.2\lwjgl-glfw-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-stb\3.2.2\lwjgl-stb-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.2.2\lwjgl-tinyfd-3.2.2.jar;C:\Users\kerim\AppData\Roaming\.minecraft\libraries\com\mojang\text2speech\1.11.3\text2speech-1.11.3.jar;C:\Users\kerim\AppData\Roaming\.minecraft\versions\20w51a\20w51a.jar
+[Info: 2020-12-31 20:34:26.6164974: ClientStarter.cpp(818)] Java argument:-Xmx2G
+[Info: 2020-12-31 20:34:26.6165512: ClientStarter.cpp(818)] Java argument:-XX:+UnlockExperimentalVMOptions
+[Info: 2020-12-31 20:34:26.6165907: ClientStarter.cpp(818)] Java argument:-XX:+UseG1GC
+[Info: 2020-12-31 20:34:26.6166337: ClientStarter.cpp(818)] Java argument:-XX:G1NewSizePercent=20
+[Info: 2020-12-31 20:34:26.6166656: ClientStarter.cpp(818)] Java argument:-XX:G1ReservePercent=20
+[Info: 2020-12-31 20:34:26.6166886: ClientStarter.cpp(818)] Java argument:-XX:MaxGCPauseMillis=50
+[Info: 2020-12-31 20:34:26.6167122: ClientStarter.cpp(818)] Java argument:-XX:G1HeapRegionSize=32M
+[Info: 2020-12-31 20:34:26.6167899: ClientStarter.cpp(841)] Starting game in folder ...\.minecraft using java executable ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-12-31 20:34:26.6168743: Process_Windows.cpp(33)] Creating process ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-12-31 20:34:26.6180792: NetQueue.cpp(155)] NetQueue: Initiating shutdown.
+[Info: 2020-12-31 20:34:26.6184198: Process_Windows.cpp(102)] Starting process ...\Minecraft Launcher\runtime\jre-x64\bin\javaw.exe
+[Info: 2020-12-31 20:34:26.6644506: Process_Windows.cpp(153)] Read thread is 1772
+[Info: 2020-12-31 20:34:26.6650925: client_handler.cpp(676)] ClientHandler::NotifyBrowserClosing
+[Info: 2020-12-31 20:34:26.6654392: browser_window.cpp(56)] BrowserWindow::OnBrowserClosing
+[Info: 2020-12-31 20:34:26.6752385: browser_window.cpp(72)] BrowserWindow::OnBrowserClosed
+[Info: 2020-12-31 20:34:26.6755961: root_window_manager.cpp(326)] Main window has been closed: 034BEB48
+[Info: 2020-12-31 20:34:26.6757257: root_window_manager.cpp(335)] All windows are gone.
+[Info: 2020-12-31 20:34:26.6758037: root_window_manager.cpp(337)] Checking if we can close the application...
+[Info: 2020-12-31 20:34:26.6758840: main_context.cpp(231)] Hiding launcher!
+[Info: 2020-12-31 20:34:39.4267752: GameCallbacks.cpp(162)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[Info: 2020-12-31 20:34:41.1889875: GameCallbacks.cpp(162)] Game/dpe (Render thread) Error Failed to verify authentication
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:125)
+	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.checkPrivileges(YggdrasilSocialInteractionsService.java:94)
+	at com.mojang.authlib.yggdrasil.YggdrasilSocialInteractionsService.<init>(YggdrasilSocialInteractionsService.java:40)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.createSocialInteractionsService(YggdrasilAuthenticationService.java:152)
+	at dpe.a(SourceFile:632)
+	at dpe.<init>(SourceFile:405)
+	at net.minecraft.client.main.Main.main(SourceFile:177)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:104)
+	... 6 more
+
+[Info: 2020-12-31 20:34:41.2496638: GameCallbacks.cpp(162)] Game/dpe (Render thread) Info Setting user: Koalt45
+[Info: 2020-12-31 20:34:42.0163093: GameCallbacks.cpp(162)] Game/dpe (Render thread) Info Backend library: LWJGL version 3.2.2 build 10
+[Info: 2020-12-31 20:34:45.6583130: GameCallbacks.cpp(162)] Game/com.mojang.text2speech.NarratorWindows (Render thread) Info Narrator library for x64 successfully loaded
+[Info: 2020-12-31 20:34:45.8027546: GameCallbacks.cpp(162)] Game/acz (Render thread) Info Reloading ResourceManager: Default
+[Info: 2020-12-31 20:34:48.4723032: GameCallbacks.cpp(162)] Game/dle (Realms Notification Availability checker #1) Info Could not authorize you against Realms server: Invalid session id
+[Info: 2020-12-31 20:34:59.8157599: GameCallbacks.cpp(162)] Game/diy (Render thread) Info OpenAL initialized.
+[Info: 2020-12-31 20:34:59.8176988: GameCallbacks.cpp(162)] Game/eub (Render thread) Info Sound engine started
+[Info: 2020-12-31 20:35:01.1894542: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[Info: 2020-12-31 20:35:02.4427899: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[Info: 2020-12-31 20:35:02.4461715: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[Info: 2020-12-31 20:35:02.4898984: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[Info: 2020-12-31 20:35:02.6007013: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[Info: 2020-12-31 20:35:02.6061871: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[Info: 2020-12-31 20:35:02.6138716: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[Info: 2020-12-31 20:35:05.7334063: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/particles.png-atlas
+[Info: 2020-12-31 20:35:05.7656028: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[Info: 2020-12-31 20:35:05.7685736: GameCallbacks.cpp(162)] Game/eql (Render thread) Info Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[Info: 2020-12-31 20:35:13.8523689: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:35:14.0191365: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:35:14.0192487: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:35:14.0193417: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:35:14.0193858: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:35:14.0194789: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:35:14.0248602: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:35:14.0348543: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:35:14.2200581: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:35:14.2201618: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:35:14.2202588: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:35:14.2203022: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:35:14.2203448: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:35:48.9637328: GameCallbacks.cpp(162)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-12-31 20:35:48.9666607: GameCallbacks.cpp(162)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-12-31 20:35:48.9758244: GameCallbacks.cpp(162)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-12-31 20:35:48.9785560: GameCallbacks.cpp(162)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[Info: 2020-12-31 20:35:48.9808689: GameCallbacks.cpp(162)] Game/dc (Render thread) Warn Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[Info: 2020-12-31 20:35:48.9875972: GameCallbacks.cpp(162)] Game/acz (Render thread) Info Reloading ResourceManager: Default
+[Info: 2020-12-31 20:35:50.1277737: GameCallbacks.cpp(162)] Game/bqj (Render thread) Info Loaded 7 recipes
+[Info: 2020-12-31 20:35:51.2143255: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 987 advancements
+[Info: 2020-12-31 20:35:53.8380701: GameCallbacks.cpp(162)] Game/com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService (Render thread) Info Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[Info: 2020-12-31 20:35:53.9006281: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Starting integrated minecraft server version 20w51a
+[Info: 2020-12-31 20:35:53.9016622: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Generating keypair
+[Info: 2020-12-31 20:35:54.6549371: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Preparing start region for dimension minecraft:overworld
+[Info: 2020-12-31 20:35:58.5835846: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5837995: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5839586: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5841118: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5842582: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5844120: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5845602: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.5847102: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:58.7185643: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %0
+[Info: 2020-12-31 20:35:59.2586757: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %2
+[Info: 2020-12-31 20:35:59.7782901: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Başlangıç alanı hazırlanıyor: %50
+[Info: 2020-12-31 20:36:03.6057684: GameCallbacks.cpp(162)] Game/abd (Render thread) Info Time elapsed: 8923 ms
+[Info: 2020-12-31 20:36:04.6163874: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Changing view distance to 11, from 10
+[Info: 2020-12-31 20:36:05.6927510: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Warn Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[Info: 2020-12-31 20:36:13.2628927: GameCallbacks.cpp(162)] Game/adh (Server thread) Info Koalt45[local:E:6d6598b9] logged in with entity id 208 at (-148.57024190901396, 45.0, 186.60340888753768)
+[Info: 2020-12-31 20:36:13.4972374: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Koalt45 oyuna katıldı
+[Info: 2020-12-31 20:36:15.6273359: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Saving and pausing game...
+[Info: 2020-12-31 20:36:15.7674374: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 20:36:17.1073752: GameCallbacks.cpp(162)] Game/ect (Render thread) Warn Received passengers for unknown entity
+[Info: 2020-12-31 20:36:17.8807468: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 93 advancements
+[Info: 2020-12-31 20:36:18.3671595: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 20:36:18.3674875: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 20:36:20.3842426: GameCallbacks.cpp(162)] Game/com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService (Worker-Main-10) Warn Couldn't look up profile properties for com.mojang.authlib.GameProfile@1c99c15b[id=49023baf-759c-45c7-a15c-121c77631dd0,name=Koalt45,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:125)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:99)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:186)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:61)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:58)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154)
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4158)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5147)
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:5153)
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:176)
+	at dpe.K(SourceFile:2364)
+	at erc.a(SourceFile:98)
+	at erc$$Lambda$5422/60083020.run(Unknown Source)
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1402)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1689)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+Caused by: java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:209)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.InputRecord.readFully(InputRecord.java:465)
+	at sun.security.ssl.InputRecord.read(InputRecord.java:503)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:973)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1375)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1403)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1387)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:563)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:254)
+	at com.mojang.authlib.HttpAuthenticationService.performGetRequest(HttpAuthenticationService.java:140)
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:104)
+	... 21 more
+
+[Info: 2020-12-31 20:36:35.4116387: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Warn Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[Info: 2020-12-31 20:37:13.8678675: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:37:14.2171361: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:37:14.2172371: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:37:14.2173459: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:37:14.2173957: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:37:14.2175750: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:37:14.2786446: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:37:14.2862479: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:37:14.4722377: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:37:14.4723358: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:37:14.4724267: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:37:14.4724680: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:37:14.4725089: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:37:55.7991169: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Oyun modun Seyirci Modu olarak ayarlandı]
+[Info: 2020-12-31 20:37:55.8178882: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Oyun modun Seyirci Modu olarak ayarlandı
+[Info: 2020-12-31 20:38:57.1197430: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Saving and pausing game...
+[Info: 2020-12-31 20:38:57.1683419: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 20:38:57.6588044: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 20:38:57.6589691: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 20:39:07.4508803: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Zaman 1000 olarak ayarlandı]
+[Info: 2020-12-31 20:39:07.4514135: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Zaman 1000 olarak ayarlandı
+[Info: 2020-12-31 20:39:12.8372506: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Oyun modun Yaratıcılık Modu olarak ayarlandı]
+[Info: 2020-12-31 20:39:12.9134170: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Oyun modun Yaratıcılık Modu olarak ayarlandı
+[Info: 2020-12-31 20:39:13.5192971: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Saving and pausing game...
+[Info: 2020-12-31 20:39:13.5657121: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 20:39:13.7679870: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 20:39:13.7681507: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 20:39:13.8843507: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:39:13.9579310: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:39:13.9580212: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:39:13.9581137: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:39:13.9581548: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:39:13.9583826: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:39:13.9645835: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:39:13.9662757: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:39:14.1645504: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:39:14.1646296: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:39:14.1646862: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:39:14.1647149: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:39:14.1647448: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:39:54.0195667: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Saving and pausing game...
+[Info: 2020-12-31 20:39:54.0507551: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 20:39:54.2835782: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 20:39:54.2847882: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 20:40:41.2446238: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Zaman 1000 olarak ayarlandı]
+[Info: 2020-12-31 20:40:41.2593838: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Zaman 1000 olarak ayarlandı
+[Info: 2020-12-31 20:40:45.7903550: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Zaman 18000 olarak ayarlandı]
+[Info: 2020-12-31 20:40:45.8031003: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Zaman 18000 olarak ayarlandı
+[Info: 2020-12-31 20:41:13.9641393: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:41:14.3320226: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:41:14.3321231: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:41:14.3322165: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:41:14.3322590: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:41:14.3323600: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 20:41:14.3377438: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:41:14.3377904: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:41:14.5291047: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:41:14.5292063: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:41:14.5292969: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:41:14.5293425: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:41:14.5293845: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:42:34.2124064: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Zaman 1000 olarak ayarlandı]
+[Info: 2020-12-31 20:42:34.2296702: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Zaman 1000 olarak ayarlandı
+[Info: 2020-12-31 20:42:50.2010020: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Bilinmeyen veya eksik komut, hata için aşağıya bakın
+[Info: 2020-12-31 20:42:50.2016700: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] /<--[BURASI]
+[Info: 2020-12-31 20:43:10.8781428: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Koalt45, [Parlak Zırh] gelişimini yaptı
+[Info: 2020-12-31 20:43:10.8995452: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Koalt45, [Parlak Zırh] gelişimini yaptı
+[Info: 2020-12-31 20:43:10.8999251: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 94 advancements
+[Info: 2020-12-31 20:43:14.0178701: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:43:14.0786554: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:43:14.0787538: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:43:14.0788532: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:43:14.0789026: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:43:14.0790267: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:43:14.0836539: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:43:14.0845120: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:43:14.2607974: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:43:14.2609062: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:43:14.2609978: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:43:14.2610395: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:43:14.2610888: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:43:51.4806184: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 95 advancements
+[Info: 2020-12-31 20:44:18.5803727: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Warn Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[Info: 2020-12-31 20:45:14.0753426: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:45:14.1404571: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:45:14.1405535: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:45:14.1406500: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:45:14.1406919: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:45:14.1407883: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:45:14.1498623: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:45:14.1509869: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:45:14.3259819: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:45:14.3260950: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:45:14.3261897: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:45:14.3262320: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:45:14.3262721: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:45:47.6580583: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 97 advancements
+[Info: 2020-12-31 20:46:56.7728189: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 115 advancements
+[Info: 2020-12-31 20:47:14.0723321: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:47:14.4294070: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:47:14.4294939: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:47:14.4295583: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:47:14.4295880: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:47:14.4296541: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:47:14.4351808: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:47:14.4360861: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:47:14.8698166: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:47:14.8699196: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:47:14.8700088: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:47:14.8700499: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:47:14.8700908: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:49:14.0883176: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:49:14.1581344: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:49:14.1582392: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:49:14.1583399: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:49:14.1583843: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:49:14.1584912: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:49:14.1622946: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:49:14.1629529: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:49:14.3538472: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:49:14.3539501: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:49:14.3540475: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:49:14.3540884: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:49:14.3541316: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:51:14.0920528: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:51:14.4652465: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:51:14.4653528: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:51:14.4654480: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:51:14.4654919: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:51:14.4656009: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 20:51:14.4707201: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:51:14.4707871: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:51:14.6561185: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:51:14.6562515: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:51:14.6564185: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:51:14.6564748: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:51:14.6565209: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:53:11.1017001: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info [Koalt45: Zaman 1000 olarak ayarlandı]
+[Info: 2020-12-31 20:53:11.1021195: GameCallbacks.cpp(162)] Game/dqp (Render thread) Info [CHAT] Zaman 1000 olarak ayarlandı
+[Info: 2020-12-31 20:53:14.1843145: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:53:14.2521112: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:53:14.2522120: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:53:14.2523090: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:53:14.2523516: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:53:14.2524528: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:53:14.2559814: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:53:14.2566650: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:53:14.4365185: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:53:14.4366171: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:53:14.4367149: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:53:14.4367632: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:53:14.4368056: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:54:35.2530349: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 116 advancements
+[Info: 2020-12-31 20:55:14.1916124: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:55:14.5361292: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:55:14.5362257: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:55:14.5363214: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:55:14.5363649: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:55:14.5364669: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:55:14.5429872: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:55:14.5437783: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:55:14.7161231: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:55:14.7162275: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:55:14.7163244: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:55:14.7163692: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:55:14.7164206: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:55:53.8253538: GameCallbacks.cpp(162)] Game/z (Render thread) Info Loaded 128 advancements
+[Info: 2020-12-31 20:57:14.2628925: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:57:14.6074011: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:57:14.6074843: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:57:14.6075458: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:57:14.6075717: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:57:14.6076367: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:57:14.6111696: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:57:14.6118448: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:57:14.7897931: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:57:14.7898935: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:57:14.7899828: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:57:14.7900237: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:57:14.7900798: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:59:14.3578616: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:59:14.4339471: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 20:59:14.4340471: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:59:14.4341417: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:59:14.4341851: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 20:59:14.4342822: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 20:59:14.4404127: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 20:59:14.4413891: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:59:14.6202167: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 20:59:14.6203578: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 20:59:14.6205150: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 20:59:14.6205636: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 20:59:14.6206059: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:01:14.4411487: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:01:14.5731557: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:01:14.5733043: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:01:14.5734321: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:01:14.5734864: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:01:14.5736227: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:01:14.5795942: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:01:14.5805622: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:01:14.7533447: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:01:14.7534434: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:01:14.7535326: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:01:14.7535722: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:01:14.7536223: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:03:14.4996587: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:03:14.8427473: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:03:14.8428552: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:03:14.8429261: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:03:14.8429562: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:03:14.8430243: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:03:14.8482158: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:03:14.8489131: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:03:15.0194952: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:03:15.0195996: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:03:15.0196840: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:03:15.0197236: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:03:15.0197630: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:05:14.5443263: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:05:14.6007987: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:05:14.6009034: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:05:14.6010071: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:05:14.6010527: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:05:14.6011648: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:05:14.6069681: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:05:14.6076130: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:05:14.7772629: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:05:14.7773678: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:05:14.7774568: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:05:14.7774989: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:05:14.7775445: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:07:14.6232724: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:07:14.6806292: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:07:14.6807100: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:07:14.6807720: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:07:14.6807982: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:07:14.6808632: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:07:14.6858737: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:07:14.6868476: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:07:14.8537389: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:07:14.8538521: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:07:14.8539426: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:07:14.8539844: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:07:14.8540289: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:07:33.8701083: GameCallbacks.cpp(162)] Game/etq (Server thread) Info Saving and pausing game...
+[Info: 2020-12-31 21:07:33.9248983: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 21:07:33.9597773: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 21:07:33.9612121: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 21:09:14.7095833: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:09:15.0483663: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:09:15.0484876: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:09:15.0485781: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:09:15.0486208: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:09:15.0487287: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:09:15.0537278: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:09:15.0544130: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:09:15.2304246: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:09:15.2305317: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:09:15.2306258: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:09:15.2306686: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:09:15.2307105: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:11:14.7304220: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:11:14.8022441: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:11:14.8023554: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:11:14.8024547: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:11:14.8025038: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:11:14.8026092: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:11:14.8069170: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:11:14.8078375: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:11:14.9966388: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:11:14.9967342: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:11:14.9968260: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:11:14.9968716: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:11:14.9969144: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:13:14.8044673: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:13:15.1575621: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:13:15.1576449: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:13:15.1577048: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:13:15.1577303: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:13:15.1577929: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:13:15.1621835: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:13:15.1628534: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:13:15.6673640: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:13:15.6674835: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:13:15.6675835: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:13:15.6676264: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:13:15.6676699: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:15:14.8445585: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:15:15.1694487: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:15:15.1695379: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:15:15.1696358: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:15:15.1696808: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:15:15.1698081: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:15:15.1752833: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:15:15.1765690: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:15:15.3538084: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:15:15.3539109: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:15:15.3539735: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:15:15.3539986: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:15:15.3540295: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:17:14.8701602: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:17:15.2221482: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:17:15.2222464: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:17:15.2223128: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:17:15.2223386: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:17:15.2224014: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:17:15.2507541: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:17:15.2513830: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:17:15.4169472: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:17:15.4171559: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:17:15.4172959: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:17:15.4173415: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:17:15.4173927: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:19:14.9594001: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:19:15.2996611: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:19:15.2997539: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:19:15.2998203: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:19:15.2998471: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:19:15.2999115: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:19:15.3051007: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:19:15.3059745: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:19:15.4830226: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:19:15.4831248: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:19:15.4832144: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:19:15.4832626: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:19:15.4833151: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:21:14.9798224: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:21:15.3107938: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:21:15.3108987: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:21:15.3109985: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:21:15.3110438: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:21:15.3111461: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:21:15.3164981: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:21:15.3171861: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:21:15.4925734: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:21:15.4926600: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:21:15.4927508: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:21:15.4927928: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:21:15.4928355: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:23:15.0224011: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:23:15.3842036: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:23:15.3843114: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:23:15.3844078: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:23:15.3844509: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:23:15.3845807: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:23:15.3924868: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:23:15.3931662: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:23:15.8094754: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:23:15.8095564: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:23:15.8096341: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:23:15.8096646: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:23:15.8096890: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:25:15.0755787: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:25:15.1688746: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:25:15.1689809: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:25:15.1691420: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:25:15.1691972: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:25:15.1693209: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:25:15.1756454: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:25:15.1763042: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:25:15.3720129: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:25:15.3721077: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:25:15.3722227: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:25:15.3722619: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:25:15.3723014: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:27:15.0968799: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:27:17.5096995: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:27:17.5098031: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:27:17.5099139: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:27:17.5099530: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:27:17.5100673: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:27:17.5150591: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:27:17.5157796: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:27:17.7039624: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:27:17.7040481: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:27:17.7041268: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:27:17.7041522: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:27:17.7041760: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:29:15.1355843: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:29:16.2251834: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:29:16.2252810: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:29:16.2254040: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:29:16.2254468: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:29:16.2255695: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:29:16.2342385: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:29:16.2350867: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:29:16.4135953: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:29:16.4137073: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:29:16.4138241: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:29:16.4138649: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:29:16.4139136: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:31:15.2131470: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:31:15.5817512: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:31:15.5818581: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:31:15.5819843: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:31:15.5820299: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:31:15.5821510: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 21:31:15.5898151: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:31:15.5898596: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:31:15.7650399: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:31:15.7651514: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:31:15.7652734: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:31:15.7653222: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:31:15.7653713: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:33:15.2563192: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:33:15.3191166: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:33:15.3192152: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:33:15.3193570: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:33:15.3194088: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:33:15.3196239: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:33:15.3287257: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:33:15.3295166: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:33:15.5222747: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:33:15.5223765: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:33:15.5224857: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:33:15.5225174: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:33:15.5225465: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:35:15.3059036: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:35:15.6712229: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:35:15.6713213: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:35:15.6714084: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:35:15.6714358: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:35:15.6715160: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:35:15.6762164: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:35:15.6768782: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:35:15.8683649: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:35:15.8685607: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:35:15.8688038: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:35:15.8689054: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:35:15.8690153: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:37:15.3655176: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:37:15.7611379: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:37:15.7612130: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:37:15.7612957: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:37:15.7613217: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:37:15.7614001: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:37:15.7657507: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:37:15.7663637: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:37:15.9550326: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:37:15.9551103: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:37:15.9551820: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:37:15.9552062: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:37:15.9552303: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:39:15.4363284: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:39:15.5021566: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:39:15.5022914: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:39:15.5024307: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:39:15.5024750: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:39:15.5026000: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:39:15.5079072: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:39:15.5086309: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:39:15.6802127: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:39:15.6803179: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:39:15.6804375: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:39:15.6804817: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:39:15.6805346: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:41:15.4926314: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:41:15.5550799: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:41:15.5552076: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:41:15.5554799: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:41:15.5555468: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:41:15.5556911: ProductInstance.cpp(72)] Could not download data.
+[Info: 2020-12-31 21:41:15.5606496: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:41:15.5606809: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:41:15.7298096: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:41:15.7299092: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:41:15.7647308: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:41:15.7647851: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:41:15.7648113: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:43:15.5581460: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:43:15.9123260: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:43:15.9124171: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:43:15.9125069: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:43:15.9125366: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:43:15.9126331: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:43:15.9177871: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:43:15.9184986: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:43:16.1030247: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:43:16.1031169: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:43:16.1032300: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:43:16.1032732: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:43:16.1033234: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:45:15.5894568: NetQueue.cpp(537)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:45:15.6598998: NetQueue.cpp(391)] NetQueue: Primary ip: 152.199.21.175, Host: piston-meta.mojang.com
+[Info: 2020-12-31 21:45:15.6599965: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:45:15.6601197: NetQueue.cpp(466)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:45:15.6601650: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Error: 2020-12-31 21:45:15.6602843: ProductInstance.cpp(72)] Could not download data.
+[Error: 2020-12-31 21:45:15.6650855: ProductInstance.cpp(256)] Failed to download product manifest for dungeons at https://piston-meta.mojang.com/v1/products/dungeons/f4c685912beb55eb2d5c9e0713fe1195164bba27/windows-x64.json
+[Info: 2020-12-31 21:45:15.6657187: NetQueue.cpp(537)] NetQueue: Starting net action https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:45:15.8436122: NetQueue.cpp(391)] NetQueue: Primary ip: 35.188.42.15, Host: sentry.io
+[Info: 2020-12-31 21:45:15.8437180: NetQueue.cpp(428)] NetQueue: Action failed with result "schannel: failed to receive handshake, SSL/TLS connection failed" (35) : https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:45:15.8438906: NetQueue.cpp(466)] NetQueue: Action finished: https://sentry.io/api/2703928/store/
+[Error: 2020-12-31 21:45:15.8439640: SentryAPI.cpp(123)] 0 schannel: failed to receive handshake, SSL/TLS connection failed
+[Info: 2020-12-31 21:45:15.8440069: NetQueue.cpp(482)] NetQueue: Action failed in finalization: https://sentry.io/api/2703928/store/
+[Info: 2020-12-31 21:46:22.3751572: GameCallbacks.cpp(162)] Game/djb (Sound engine) Error Stop: Invalid name parameter.
+[Info: 2020-12-31 21:46:22.4348365: GameCallbacks.cpp(162)] Game/abk (Server thread) Info Koalt45 lost connection: Bağlantı kesildi
+[Info: 2020-12-31 21:46:22.4351099: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Koalt45 oyundan ayrıldı
+[Info: 2020-12-31 21:46:22.4869783: GameCallbacks.cpp(162)] Game/abk (Server thread) Info Stopping singleplayer server as player logged out
+[Info: 2020-12-31 21:46:22.5120262: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Stopping server
+[Info: 2020-12-31 21:46:22.5835445: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving players
+[Info: 2020-12-31 21:46:22.5837527: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving worlds
+[Info: 2020-12-31 21:46:22.5839098: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:overworld
+[Info: 2020-12-31 21:46:24.2071316: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (RedstoneSmartHouse): All chunks are saved
+[Info: 2020-12-31 21:46:25.0951888: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_nether
+[Info: 2020-12-31 21:46:25.0953662: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-12-31 21:46:25.0956530: GameCallbacks.cpp(162)] Game/net.minecraft.server.MinecraftServer (Server thread) Info Saving chunks for level 'ServerLevel[RedstoneSmartHouse]'/minecraft:the_end
+[Info: 2020-12-31 21:46:25.0963859: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-12-31 21:46:26.0139413: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (RedstoneSmartHouse): All chunks are saved
+[Info: 2020-12-31 21:46:28.9509703: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[Info: 2020-12-31 21:46:28.9527128: GameCallbacks.cpp(162)] Game/aaf (Server thread) Info ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[Info: 2020-12-31 21:46:31.2848958: GameCallbacks.cpp(162)] Game/dpe (Render thread) Info Stopping!
+[Info: 2020-12-31 21:46:33.4202808: GameCallbacks.cpp(162)] Launcher/launcher (main) Info 
+
+[Info: 2020-12-31 21:46:33.4203626: GameCallbacks.cpp(162)] Launcher/monitor (Process Monitor) Info Process ended with exit code 0
+[Info: 2020-12-31 21:46:33.7198328: GameController.cpp(463)] Game closed with id 1
+[Info: 2020-12-31 21:46:33.9820311: main_context.cpp(236)] Shutting down!
+[Info: 2020-12-31 21:46:33.9825074: Process_Windows.cpp(283)] Finish any outstanding read/writes to the stdout stream
+[Info: 2020-12-31 21:46:34.0736985: Xal.lib(0)] XAL: Cleanup starting
+[Info: 2020-12-31 21:46:34.1976586: Xal.lib(0)] XAL: @@@ Terminating with 1 queues
+[Info: 2020-12-31 21:46:34.1978134: Xal.lib(0)] XAL: Cleanup pending
+[Info: 2020-12-31 21:46:34.1979092: Xal.lib(0)] XAL: Cleanup done
+[Info: 2020-12-31 21:46:34.5765018: NetQueue.cpp(155)] NetQueue: Initiating shutdown.
+[Info: 2020-12-31 21:46:34.5766002: NetQueue.cpp(161)] NetQueue: Waiting for worker thread to finish...
+[Info: 2020-12-31 21:46:34.5883085: NetQueue.cpp(633)] NetQueue: Worker thread shutting down.
+[Info: 2020-12-31 21:46:34.5887332: NetQueue.cpp(164)] NetQueue: Done.
+[Info: 2020-12-31 21:46:34.6566007: NetQueue.cpp(155)] NetQueue: Initiating shutdown.
+[Info: 2020-12-31 21:46:34.6567064: NetQueue.cpp(161)] NetQueue: Waiting for worker thread to finish...
+[Info: 2020-12-31 21:46:34.6579424: NetQueue.cpp(633)] NetQueue: Worker thread shutting down.
+[Info: 2020-12-31 21:46:34.6648169: NetQueue.cpp(164)] NetQueue: Done.
+[Info: 2020-12-31 21:46:34.8541450: ProductManager.cpp(128)] Stopping ProductManager..
+[Info: 2020-12-31 21:46:34.8815783: ProductManager.cpp(140)] ProductManager was stopped successfully
+[Info: 2020-12-31 21:46:34.8817839: StartLibrary.cpp(102)] Launcher ended with 0
+[Info: 2020-12-31 21:46:34.8821061: NetQueue.cpp(239)] NetQueue: Initiating shutdown.
+[Info: 2020-12-31 21:46:34.8821598: NetQueue.cpp(245)] NetQueue: Waiting for worker thread to finish...
+[Info: 2020-12-31 21:46:34.8825352: NetQueue.cpp(658)] NetQueue: Worker thread shutting down.
+[Info: 2020-12-31 21:46:34.8829020: NetQueue.cpp(248)] NetQueue: Done.

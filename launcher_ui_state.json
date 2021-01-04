@@ -1,0 +1,7 @@
+{
+  "data" : {
+    "UiEvents" : "{\"hasSeenDialog\":{\"LAUNCHER_RELEASENOTE_61rnrT5t7g0hS7YlV6O9CD\":true,\"HIGHLIGHT_DUNGEONS_NEWS_7yTaPRWtgA4dD4Ixk34TH7\":true,\"HIGHLIGHT_DUNGEONS_NEWS_4iwE32GfSO0yDeFMb0yQNL\":true,\"HIGHLIGHT_DUNGEONS_NEWS_1sxRVdAnyfol0KQw5S6JeB\":true},\"hidePlayerSafetyDisclaimer\":{\"1.16_88aec28546ca23ff84eae8c9953156fa\":true,\"1.16.3_c86500fb63d1899d083324faa6cf9f89\":true,\"1.12.2_8da6fd4c4981542f2ee8bdef52bbaaac\":true,\"1.15.2_c03baeb7403489ea267ddf9806bb1407\":true,\"1.12.2-forge-14.23.5.2854_forge\":true,\"1.16.3_de3b2661905843b7066905117f2170ab\":true}}",
+    "UiSettings" : "{\"dungeonsDLCFilter\":{\"Owned\":true,\"Bundle\":true,\"DLC\":true},\"javaConfigurationFilter\":{\"release\":true,\"historical\":true,\"snapshot\":true,\"sortBy\":\"last-played\",\"modded\":true},\"lastVisitedGame\":\"java\"}"
+  },
+  "formatVersion" : 1
+}

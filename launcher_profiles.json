@@ -1,0 +1,64 @@
+{
+  "authenticationDatabase" : {
+    "8db10a36bf533108b76ab0705ee556a8" : {
+      "properties" : [],
+      "username" : "Henryhovver"
+    },
+    "cdde890e91483571b0e24779ce7bfba5" : {
+      "properties" : [],
+      "username" : "BluePegasi"
+    }
+  },
+  "clientToken" : "10fb706a-9ade-478b-9b3a-f98673dc0114",
+  "launcherVersion" : {
+    "format" : 16,
+    "name" : "1.5",
+    "profilesFormat" : 2
+  },
+  "profiles" : {
+    "(Default)" : {
+      "lastUsed" : "2020-12-31T15:32:28.634Z",
+      "lastVersionId" : "1.9.2",
+      "name" : "(Default)",
+      "type" : ""
+    },
+    "829634a3b961c132b1b36781b2345a39" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "1970-01-02T00:00:00.000Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "type" : "latest-release"
+    },
+    "Copy of (Default)" : {
+      "lastUsed" : "2020-12-31T15:32:28.635Z",
+      "lastVersionId" : "1.8",
+      "name" : "Copy of (Default)",
+      "type" : ""
+    },
+    "d930144ec21c8689f7ae1df8ebc890b2" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "2020-12-31T15:34:24.930Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    }
+  },
+  "selectedUser" : {
+    "account" : ""
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : false,
+    "showMenu" : false,
+    "soundOn" : false
+  }
+}

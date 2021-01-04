@@ -1,0 +1,30 @@
+2020-11-24 21:27:06 [CLIENT] [INFO] Setting user: BluePegasi
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.attack:key.mouse.left
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.use:key.mouse.right
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.forward:key.keyboard.w
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.left:key.keyboard.a
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.back:key.keyboard.s
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.right:key.keyboard.d
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.jump:key.keyboard.space
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.sneak:key.keyboard.left.shift
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.drop:key.keyboard.q
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.inventory:key.keyboard.e
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.chat:key.keyboard.t
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.playerlist:key.keyboard.tab
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.pickItem:key.mouse.middle
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.command:key.keyboard.slash
+2020-11-24 21:27:06 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.attack:key.mouse.left
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.use:key.mouse.right
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.forward:key.keyboard.w
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.left:key.keyboard.a
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.back:key.keyboard.s
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.right:key.keyboard.d
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.jump:key.keyboard.space
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.sneak:key.keyboard.left.shift
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.drop:key.keyboard.q
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.inventory:key.keyboard.e
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.chat:key.keyboard.t
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.playerlist:key.keyboard.tab
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.pickItem:key.mouse.middle
+2020-11-24 21:27:06 [CLIENT] [WARNING] Skipping bad option: key_key.command:key.keyboard.slash
